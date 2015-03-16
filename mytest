@@ -1,0 +1,2 @@
+1.mount 132smb
+sudo mount -t cifs -o username=leon.liao,password=88888888   //172.21.16.132/backup/leon.liao /home/leon/workspace/server132
